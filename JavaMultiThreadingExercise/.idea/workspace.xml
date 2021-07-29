@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d2de784-5a71-4309-a427-6e4944a21e12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y44wBadENnOIsigAoGSRIeE6mK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Ques3b">
+    <configuration name="Ques10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ques10" />
+      <module name="JavaMultiThreadingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques3b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ques3b" />
+      <module name="JavaMultiThreadingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ques7" />
+      <module name="JavaMultiThreadingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ques8" />
+      <module name="JavaMultiThreadingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ques9" />
+      <module name="JavaMultiThreadingExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ques3b" />
+        <item itemvalue="Application.Ques10" />
+        <item itemvalue="Application.Ques9" />
+        <item itemvalue="Application.Ques8" />
+        <item itemvalue="Application.Ques7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d2de784-5a71-4309-a427-6e4944a21e12" name="Default Changelist" comment="" />
+      <created>1582188768467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582188768467</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="108" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1582206554885">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="108" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1582206554885" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582214150164">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1582214150164" />
+    <state width="1320" height="438" key="GridCell.Tab.0.bottom" timestamp="1582259138828">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="438" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582259138828" />
+    <state width="1320" height="438" key="GridCell.Tab.0.center" timestamp="1582259138827">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="438" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582259138827" />
+    <state width="1320" height="438" key="GridCell.Tab.0.left" timestamp="1582259138827">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="438" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582259138827" />
+    <state width="1320" height="438" key="GridCell.Tab.0.right" timestamp="1582259138828">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="438" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582259138828" />
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1582221808642">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582221808642" />
+    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1582221808642">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1582221808642" />
+    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1582221808642">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1582221808642" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1582221808642">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1582221808642" />
+  </component>
+</project>

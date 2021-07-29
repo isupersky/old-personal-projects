@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93756309-9b7e-4caf-8968-29d8ab67c3f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YExE7ikvL5ILA2U4E0TA50aAXq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Java8InterfaceExamples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ques12">
+    <configuration name="Ques10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8InterfaceExercise.Ques10" />
+      <module name="Java8Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8InterfaceExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8InterfaceExercise.Ques11" />
+      <module name="Java8Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8InterfaceExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8InterfaceExercise.Ques12" />
+      <module name="Java8Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8InterfaceExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8InterfaceExercise.Ques8" />
+      <module name="Java8Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8InterfaceExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8InterfaceExercise.Ques9" />
+      <module name="Java8Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8InterfaceExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ques12" />
+        <item itemvalue="Application.Ques11" />
+        <item itemvalue="Application.Ques10" />
+        <item itemvalue="Application.Ques9" />
+        <item itemvalue="Application.Ques8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93756309-9b7e-4caf-8968-29d8ab67c3f8" name="Default Changelist" comment="" />
+      <created>1582521440997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582521440997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="100" width="548" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1582546092557">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="404" y="100" width="548" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1582546092557" />
+    <state x="436" y="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582556096887">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="436" y="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.27.1366.741@0.27.1366.741" timestamp="1582556096887" />
+    <state width="1320" height="210" key="GridCell.Tab.0.bottom" timestamp="1582816187982">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="210" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582816187982" />
+    <state width="1320" height="210" key="GridCell.Tab.0.center" timestamp="1582816187982">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="210" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582816187982" />
+    <state width="1320" height="210" key="GridCell.Tab.0.left" timestamp="1582816187982">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="210" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582816187982" />
+    <state width="1320" height="210" key="GridCell.Tab.0.right" timestamp="1582816187982">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="210" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582816187982" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582545873980">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1582545873980" />
+  </component>
+</project>

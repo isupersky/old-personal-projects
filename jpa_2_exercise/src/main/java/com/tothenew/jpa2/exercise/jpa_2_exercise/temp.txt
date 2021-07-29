@@ -1,0 +1,32 @@
+package com.SpringData.SpringDataJPA2_Assignment2.repository;
+
+import com.SpringData.SpringDataJPA2_Assignment2.entity.Employee;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.query.Param;
+import org.springframework.stereotype.Repository;
+
+import java.util.List;
+
+@Repository
+public interface EmployeeRepository extends CrudRepository<Employee,Integer> {
+
+//Find All Employees
+@Query("from Employee")
+List<Employee> findAllEmployee();
+
+//Display the first name, last name of all employees having salary greater than average salary ordered in ascending by their age and in descending by their salary.
+@Query("select empfirstname, emplastname from employeetable " +
+"where empsalary > (select AVG(empsalary) from employeetable) " +
+"Order By empage ASC, empsalary DECS ")
+List<Object[]> findAllEmployeePartialData();
+
+//Update salary of all employees by a salary passed as a parameter whose existing salary is less than the average salary.
+@Query("UPDATE employeetable SET empsalary = empsalary + :increment WHERE empsalary < (select AVG(empsalary) from employeetable)")
+List<Employee> updateAllEmployeeSalary(@Param("increment") Double increment);
+
+//Delete all employees with minimum salary.
+@Query("DELETE from employeetable where empsalary =:minsalary")
+List<Employee> deleteAllEmployeesMinSalary(@Param("minsalary") Double minSalary);
+
+}
